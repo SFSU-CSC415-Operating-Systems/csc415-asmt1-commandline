@@ -9,7 +9,7 @@
 *
 * Description: This project program first displays the number of
 * arguments provided to this executable. In subsequent
-* lines it will list the argument number with the contentd of the
+* lines it will list the argument number with the contents of the
 * argument alongside it.  All output is sent to the console.
 *
 **************************************************************/
