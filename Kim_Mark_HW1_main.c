@@ -15,8 +15,10 @@
 **************************************************************/
 #include <stdio.h>
 int main ( int argc, char *argv[] ) {
+
 	// Print number of arguments (stored in argc)
 	printf("\nThere were %d arguments on the command line.\n", argc);
+	
 	// Loop through *argv array (index 0 is the name of the executable,
 	// and subsequent indices are the arguments provided)
 	for (int i=0; i < argc; i++) {
